@@ -1,0 +1,23 @@
+{
+  "name": "resqharvest-zero-waste-engine",
+  "version": "1.0.0",
+  "description": "The Zero-Waste Intelligence Engine: Connecting local businesses with perishable surplus to communities and food-insecure individuals using Open Source AI models.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "zero-waste",
+    "food-rescue",
+    "ai",
+    "llama3",
+    "ollama",
+    "hacktoberfest",
+    "sustainability",
+    "open-source-ai"
+  ],
+  "author": "ResQHarvest Team",
+  "license": "MIT"
+}
